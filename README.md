@@ -1,2 +1,2 @@
 # fccresponsive
-Проекты "Responsive Web Design" от freecodecamp.org
+Проекты для практики от freecodecamp.org
